@@ -1,0 +1,21 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#todo-container {
+  padding: 0;
+  width: 50%;
+  margin: 10px auto;
+  list-style: none;
+}
+
+.item {
+  padding: 10px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.item-button {
+  float: right;
+}
